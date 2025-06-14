@@ -1,8 +1,7 @@
 # Learning-Accelerated ADMM for Stochastic Power System Scheduling with Numerous Scenarios
 
 **Author:** Ali Rajaei  
-**Affiliation:**  
-- Delft-AI Energy Lab, Department of Electrical Sustainable Energy, Delft University of Technology, the Netherlands  
+**Affiliation:** Delft-AI Energy Lab, Department of Electrical Sustainable Energy, Delft University of Technology, the Netherlands  
 **Contact:** a.rajaei@tudelft.nl  
 **Date:** April 2025  
 
