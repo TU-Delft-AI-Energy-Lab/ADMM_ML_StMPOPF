@@ -964,7 +964,7 @@ def train_rnn(model, loader, optimizer, device=device):
     model.train()
     epoch_loss = 0
 
-    for inputs, targets in tqdm(loader):
+    for inputs, targets in loader:
         inputs = inputs.to(device)   # shape: [batch, T, D+PgX+Lambda]
         targets = targets.to(device)
 
