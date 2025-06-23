@@ -38,5 +38,6 @@ This repository contains:
 ## 📎 Paper Link
 
 [🔗 IEEE Xplore - View Paper](https://ieeexplore.ieee.org/abstract/document/10971244/)
+
 [🔗 PowerTech 2025 Presentation](https://github.com/TU-Delft-AI-Energy-Lab/ADMM_ML_StMPOPF/blob/main/PowerTech_Presentation.pdf)
 
